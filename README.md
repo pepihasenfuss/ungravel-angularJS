@@ -9,3 +9,10 @@
  angularJS 1.8. minified and compressed
  
  angularJS source map
+
+
+ angularJS needs jquery, therefore:
+ 
+ jquery
+ 
+ jquery minified
