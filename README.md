@@ -13,6 +13,6 @@
 
  angularJS needs jquery, therefore:
  
- jquery
+ jquery_3.6.0.js
  
- jquery minified
+ jquery_3.6.0_min.js minified
